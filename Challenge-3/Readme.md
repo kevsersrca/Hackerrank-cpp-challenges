@@ -46,31 +46,31 @@ Given a positive integer denoting , do the following:
 If , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
 If , print Greater than 9.
 
-####Input Format
+#### Input Format
 
 A single integer denoting .
 
-####Constraints
+#### Constraints
 
 `1<=n<=pow(10, 9)`
 
-####Output Format
+#### Output Format
 If , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead.
 
-####Sample Input 0
+#### Sample Input 0
 `
 5
 `
 
-####Sample Output 0
+#### Sample Output 0
 `five`
 
-####Explanation 0
+#### Explanation 0
 
 five is the English word for the number .
 
-####Sample Input 1
+#### Sample Input 1
 `8`
 
-####Sample Output 1
+#### Sample Output 1
 `eight`

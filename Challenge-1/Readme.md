@@ -45,5 +45,5 @@ Sample Output
 10
 ```
 
-Explanation
+#### Explanation
 The sum of the three numbers is 1+2+7=10
