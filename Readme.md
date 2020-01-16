@@ -11,4 +11,4 @@
 | Pointer | [Challenge-6](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-6)    |  Introduction
 | Arrays | [Challenge-7](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-7)    |  Introduction
 | Variable Sized Arrays | [Challenge-8](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-8)    | Introduction 
-| Attribute Parser | [Challenge-9](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-9)    | Strings 
+| Strings | [Challenge-9](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-9)    | Strings 
