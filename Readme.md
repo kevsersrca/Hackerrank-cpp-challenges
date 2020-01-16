@@ -13,3 +13,4 @@
 | Variable Sized Arrays | [Challenge-8](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-8)    | Introduction |:+1:
 | Strings | [Challenge-9](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-9)    | Strings |:+1:
 | Attribute Parser | [Challenge-10](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-10)    | Strings |:-1:
+| String Stream | [Challenge-11](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-11)    | Strings |:+1:
