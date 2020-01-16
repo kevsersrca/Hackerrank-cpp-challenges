@@ -4,12 +4,14 @@
 #include <array>
 using namespace std;
 
+//number and speeling structure
 struct numberDictionary {
     int number;
     string dict;
 };
 
 
+// number convert speeling word function
 string numberToEnglish(int n) {
     struct numberDictionary NatureNumbers[10] = {
             {1, "one"},
@@ -29,11 +31,13 @@ string numberToEnglish(int n) {
     }
     return "";
 }
+
 int main() {
     std::array<int,2> numberArray;
     cin>>numberArray[0];
     cin>>numberArray[1];
 
+    //control
     for (int i=numberArray[0]; i<=numberArray[1];i++) {
         if (i >0 && i < 10) {
             cout << numberToEnglish(i) << endl;

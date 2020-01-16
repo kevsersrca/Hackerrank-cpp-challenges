@@ -7,13 +7,19 @@ using namespace std;
 
 
 int main() {
-    int lineNumber;
-    cin >> lineNumber;
-    int arr[lineNumber];
-    for (int i=0;i<lineNumber;i++) {
+
+    // get line number
+    int n;
+    cin >> n;
+
+    //array create and fill
+    int arr[n];
+    for (int i=0;i<n;i++) {
         cin >> arr[i];
     }
-    for(int i=lineNumber-1;i>=0;i--) {
+
+    //print reversely
+    for(int i=n-1;i>=0;i--) {
         cout << arr[i] << " ";
     }
     return 0;

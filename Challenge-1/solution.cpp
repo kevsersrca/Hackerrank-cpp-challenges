@@ -9,7 +9,7 @@ using namespace std;
 int main() {
     int i = 0;
     int sum = 0;
-
+    //sum of
     while (cin >> i) {
         sum += i;
     }
