@@ -10,4 +10,4 @@
 | Find Max Algorithm | [Challenge-5](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-5)    |  
 | Pointer | [Challenge-6](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-6)    |  
 | Arrays | [Challenge-7](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-7)    |  
-
+| Variable Sized Arrays | [Challenge-8](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-8)    |  
