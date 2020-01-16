@@ -1,7 +1,7 @@
 ### Contents
 
 | Name        | Link           |  Subdomains | Status | DIFFICULTY |
-| ------------- |:-------------:| :--------:| :--------: |:---------------- :|
+| ------------- |:-------------:| :--------:| :--------: |:----------------:|
 | Hello World | [Hello World](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Hello-World)    | Introduction |:+1:|Easy|
 | Input & Output (cin & cout)     | [Challenge-1](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-1) |Introduction |:+1|Easy |
 | Data Types      | [Challenge-2](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-2)      |  Introduction|:+1:|Easy|
