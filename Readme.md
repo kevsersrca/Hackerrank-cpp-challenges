@@ -9,4 +9,5 @@
 | For Loop | [Challenge-4](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-4)    |  
 | Find Max Algorithm | [Challenge-5](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-5)    |  
 | Pointer | [Challenge-6](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-6)    |  
+| Arrays | [Challenge-7](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-7)    |  
 
