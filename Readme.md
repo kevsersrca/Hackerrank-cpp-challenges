@@ -18,3 +18,4 @@
 | Class | [Challenge-13](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-13)    | Classes |:+1:|Easy|
 | Classes and Objects | [Challenge-14](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-14)    | Classes |:+1:|Easy|
 | Box it | [Challenge-15](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-15)    | Classes |:+1:|Easy|
+| Vector-Sort | [Challenge-16](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-16)    | STL |:+1:|Easy|
