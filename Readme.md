@@ -14,3 +14,7 @@
 | Strings | [Challenge-9](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-9)    | Strings |:+1:|Easy|
 | Attribute Parser | [Challenge-10](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-10)    | Strings |:x:|Medium|
 | String Stream | [Challenge-11](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-11)    | Strings |:+1:|Easy|
+| Structs | [Challenge-12](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-12)    | Classes |:+1:|Easy|
+| Class | [Challenge-13](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-13)    | Classes |:+1:|Easy|
+| Classes and Objects | [Challenge-14](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-14)    | Classes |:+1:|Easy|
+| Box it | [Challenge-15](https://github.com/kevsersrca/Hackerrank-cpp-challanges/tree/master/Challenge-15)    | Classes |:+1:|Easy|
